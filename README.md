@@ -1,4 +1,4 @@
-# AI-Python
+# AI Art Generator
 - Generative adversarial network (GAN)
 - Google colab
 - Python
