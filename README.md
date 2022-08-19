@@ -4,6 +4,6 @@
 - Python
 - PyTorch
 
-Generating numbers: GAN__
-Generating faces: WGAN__
+Generating numbers: GAN<br />
+Generating faces: WGAN<br />
 Generating sentences: CLIP
